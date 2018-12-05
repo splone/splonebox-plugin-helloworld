@@ -5,8 +5,8 @@
 This plugin is part of the splonebox. More information can be found here:
 
 [Website](https://splone.com/splonebox) |
-[wiki] (https://github.com/splone/splonebox-core/wiki) |
-[twitter] (https://twitter.com/sploneberlin/)
+[wiki](https://github.com/splone/splonebox-core/wiki) |
+[twitter](https://twitter.com/sploneberlin/)
 
 ## What's behind it
 
